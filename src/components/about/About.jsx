@@ -31,12 +31,12 @@ const About = () => {
           <article>
             <div>
               <img src={me} alt="Founder" />
-              <h3>Rohit</h3>
+              <h3>Rohit Kachhawa</h3>
             </div>
 
             <p>
               I am Rohit, the founder of  Burger Wala. Affiliated to
-              God Taste...
+              Good Taste...
             </p>
           </article>
         </div>

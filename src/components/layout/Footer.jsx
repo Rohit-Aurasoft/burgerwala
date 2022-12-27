@@ -12,19 +12,19 @@ const Footer = () => {
 
         <em>We give attention to genuine feedback.</em>
 
-        <strong>All right received @mbaburgerwala</strong>
+        <strong>All right received @burgerwala</strong>
       </div>
 
       <aside>
         <h4>Follow Us</h4>
 
-        <a href="https://youtube.com/6packprogrammer">
+        <a href="https://youtube.com">
           <AiFillYoutube />
         </a>
-        <a href="https://instagram.com/meabhisingh">
+        <a href="https://instagram.com/iamrsk___">
           <AiFillInstagram />
         </a>
-        <a href="https://github.com/meabhisingh">
+        <a href="https://github.com">
           <AiFillGithub />
         </a>
       </aside>
